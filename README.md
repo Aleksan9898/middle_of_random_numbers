@@ -1,4 +1,4 @@
-#ROS2 middle_of_random_numbers
+# ROS2 middle_of_random_numbers
 
 ## Описание
 Это ROS2 пакет, который содержит два узла:
